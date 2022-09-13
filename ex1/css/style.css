@@ -1,0 +1,31 @@
+
+
+.p-jcvd {
+    letter-spacing: 1.5px;
+    font-size: 2em;
+}
+
+.jcvd-img {
+    width: 50%;
+    height: auto;
+}
+
+
+.chanson {
+    width: 25%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    line-height: 2.5em;
+}
+
+.cdm-img {
+    width: 10em;
+    height: auto;
+}
+
+table, td {
+    border: 1px solid #333;
+    width: 50%;
+    margin: auto;
+}
